@@ -1,0 +1,7 @@
+{
+  "name": "ravenousReactApp",
+  "description": "",
+  "repository": "https://github.com/mrdulin/ravenousReactApp",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "react"]
+}
