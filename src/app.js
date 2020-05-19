@@ -1,8 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import BusinessList from './component/BusinessList/BusinessList';
-import SearchBar from './component/SearchBar/SearchBar';
+import BusinessList from './components/BusinessList/BusinessList';
+import SearchBar from './components/SearchBar/SearchBar';
 import Yelp from './util/Yelp';
 
 class App extends React.Component {
